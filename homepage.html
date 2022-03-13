@@ -8,20 +8,61 @@
     <link rel="stylesheet" href="homepage.css">
 </head>
 <body>
-    <div class="header">
-        <div class="inner-header">
-            <div class="logo"></div>
-            <div class="items">
-                <ul>
-                    <li><a href="products.html">Products</a></li>
-                    <li><a href="login.html">Login</a></li>
-                    <li><a href="cart.html">Cart</a></li>
+    <div class="container">
+        <div class="navbar">
+            <img src="poze/Bose_Logo.png" class="logo">
+            <nav>
+                <ul id="menulist">
+                    <li><a href="shop.html">Mobile Phones</a></li>
+                    <li><a href="shop.html">TV</a></li>
+                    <li><a href="shop.html">Computers</a></li>
+                    <li><a href="shop.html">Laptops</a></li>
                 </ul>
+            </nav>
+            <img src="poze/menu.png" class="menu-button" onclick="togglememenu()">
+        </div>
+        <div class="row">
+            <div class="col-1">
+                <h2>Asus Rog Strix <br> H15</h2>
+                <h3>Best Gaming Laptop of 2022</h3>
+                <p>Ultra Performant <br> Portabil</p>
+                <h4>799.99$</h4>
+                <button type="button">Buy Now <img src="poze/arrow.png" alt="sageata"></button>
+            </div>
+            <div class="col-2">
+                <img src="poze/poza-asusrog.png" class="poza-asus-laptop">
+                <div class="color-box"></div>
+                <div class="add-btn">
+                    <img src="poze/add.png" class="plus-button">
+                    <p><small>Add to cart</small></p>
+                </div>
             </div>
         </div>
-
-
+        <div class="social-links">
+            <img src="poze/fb.png" alt="">
+            <img src="poze/ig.png" alt="">
+            <img src="poze/tw.png" alt="">
+        </div>
     </div>
+   <script>
+       var menulist = document.getElementById("menulist");
+
+       menulist.style.maxHeight = "0px";
+       function togglememenu(){
+        if(menulist.style.maxHeight == "0px")
+        {
+            menulist.style.maxHeight = "130px";
+        }
+        else
+        {
+            menulist.style.maxHeight = "0px";
+        }
+
+
+       }
+
+
+   </script>
     
 </body>
 </html>

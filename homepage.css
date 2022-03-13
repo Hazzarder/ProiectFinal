@@ -1,1 +1,257 @@
-/* No CSS *//*# sourceMappingURL=homepage.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding-left: 8%;
+  padding-right: 8%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  overflow: hidden;
+}
+
+.navbar {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.logo {
+  width: 50px;
+  cursor: poiner;
+  margin: 0;
+  background-color: white;
+}
+
+.menu-button {
+  width: 25px;
+  cursor: pointer;
+  display: none;
+}
+
+nav {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: right;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+nav ul li a:hover {
+  color: #F1D9B2;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 100px 0;
+}
+
+.row .col-1 {
+  -ms-flex-preferred-size: 40%;
+      flex-basis: 40%;
+  position: relative;
+  margin-left: 50px;
+}
+
+.row .col-1 h2 {
+  font-size: 54px;
+}
+
+.row .col-1 h3 {
+  font-size: 30px;
+  color: #707070;
+  font-weight: 100;
+  margin: 20px 0 10px;
+}
+
+.row .col-1 h4 {
+  font-size: 20px;
+  color: #b7b7b7;
+  font-weight: 100;
+}
+
+.row button {
+  width: 140px;
+  margin-top: 20px;
+  padding: 12px 10px;
+  background-color: #101010;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  -webkit-transition: width 0.5s;
+  transition: width 0.5s;
+}
+
+.row button img {
+  width: 30px;
+  display: none;
+}
+
+button:hover img {
+  display: block;
+}
+
+button:hover {
+  width: 160px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.col-1::after {
+  content: '';
+  width: 10px;
+  height: 57%;
+  background: -webkit-gradient(linear, left top, left bottom, from(#101010), to(#707070));
+  background: linear-gradient(#101010, #707070);
+  position: absolute;
+  left: -40px;
+  top: 8px;
+}
+
+.col-2 {
+  position: relative;
+  -ms-flex-preferred-size: 60%;
+      flex-basis: 60%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.col-2 .poza-asus-laptop {
+  width: 90%;
+}
+
+.col-2 .color-box {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: -webkit-gradient(linear, left top, left bottom, from(#101010), to(#707070));
+  background: linear-gradient(#101010, #707070);
+  border-radius: 20px 0 0 20px;
+  height: 100%;
+  width: 80%;
+  z-index: -1;
+  -webkit-transform: translateX(80px);
+          transform: translateX(80px);
+}
+
+.add-btn img {
+  width: 35px;
+  margin-bottom: 5px;
+}
+
+.add-btn {
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+}
+
+.social-links {
+  text-align: center;
+}
+
+.social-links img {
+  height: 13px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 700px) {
+  nav ul {
+    width: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(#101010), to(#707070));
+    background: linear-gradient(#101010, #707070);
+    position: absolute;
+    top: 75px;
+    right: 0;
+    z-index: 2;
+  }
+  nav ul li {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  nav ul li a {
+    color: #fff;
+  }
+  .menu-button {
+    display: block;
+  }
+  #menulist {
+    overflow: hidden;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+  }
+  .row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    margin: 50px 0;
+  }
+  .col-2 {
+    -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+    margin-bottom: 50px;
+  }
+  .col-2 .poza-asus-laptop {
+    width: 77%;
+  }
+  .color-box {
+    -webkit-transform: translateX(75px);
+            transform: translateX(75px);
+  }
+  .col-1 {
+    -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+  }
+  .col-1 h2 {
+    font-size: 35px;
+  }
+  .col-1 h3 {
+    font-size: 20px;
+  }
+}
+/*# sourceMappingURL=homepage.css.map */
