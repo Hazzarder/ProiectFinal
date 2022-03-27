@@ -4,7 +4,7 @@ menulist.style.maxHeight = "0px";
 function togglememenu(){
  if(menulist.style.maxHeight == "0px")
  {
-     menulist.style.maxHeight = "150px";
+     menulist.style.maxHeight = "170px";
  }
  else
  {
