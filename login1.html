@@ -7,22 +7,50 @@
     <title>Document</title>
     <link rel="stylesheet" href="login1.css">
 </head>
-<body>
-    <div class="navbar">
-        <img src="poze/Bose_Logo.png" class="logo">
-        <nav>
-            <ul id="menulist">
-                <li><a href="login.html" class="loginn">Login</a></li>
-                <li><a href="shop.html">Mobile Phones</a></li>
-                <li><a href="shop.html">TV</a></li>
-                <li><a href="shop.html">Computers</a></li>
-                <li><a href="shop.html">Laptops</a></li>
-            </ul>
-        </nav>
-        <img src="poze/menu.png" class="menu-button" onclick="togglememenu()">
+    <div class="navigation">
+        <div class="navbar">
+            <a href="homepage.html"><img src="poze/Bose_Logo.png" class="logo"></a>
+            <nav>
+                <ul id="menulist">
+                    <li><a href="login.html">Register</a></li>
+                    <li><a href="login1.html">Login</a></li>
+                    <li><a href="shop.html">Mobile Phones</a></li>
+                    <li><a href="shop.html">TV</a></li>
+                    <li><a href="shop.html">Computers</a></li>
+                    <li><a href="shop.html">Laptops</a></li>
+                </ul>
+            </nav>
+            <img src="poze/menu.png" class="menu-button" onclick="togglememenu()">
+        </div>
     </div>
-    <div class="login-form">
+
+<body>
     
+    <div class="containerForm">
+        <div class="titleForm">Login</div>
+        <form action="#">
+            <div class="user-details">
+               
+                <div class="input-box">
+                    <span class="details">Username</span>
+                    <input type="text" placeholder="Enter your username" required>
+                </div>
+               
+               
+                <div class="input-box">
+                    <span class="details">Password</span>
+                    <input type="text" placeholder="Enter you password" required>
+                </div>
+                
+            </div>
+            
+            <div class="buttonForm">
+                <input type="submit" value="Login">
+            </div>
+        </form>
+        <div class="cont">
+            <a href="_blank">Forgot your password? Click here!</a>
+        </div>
     </div>
     <script src="login1.js"></script>
 </body>

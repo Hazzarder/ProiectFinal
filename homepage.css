@@ -253,4 +253,14 @@ button:hover {
     font-size: 20px;
   }
 }
+
+.footerLinks {
+  text-align: center;
+  list-style: none;
+  text-decoration: none;
+}
+
+.footerLinks ul li {
+  margin: 5px;
+}
 /*# sourceMappingURL=homepage.css.map */
