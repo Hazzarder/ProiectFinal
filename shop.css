@@ -73,6 +73,76 @@ nav ul li a:hover {
   cursor: pointer;
 }
 
+.searchBarContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 60px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.searchBarContainer .searchbar {
+  width: 100%;
+  max-width: 700px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: black;
+  border-radius: 60px;
+  padding: 10px 20px;
+  height: 40px;
+}
+
+.searchBarContainer .searchbar input {
+  background: transparent;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  border: 0;
+  outline: none;
+  padding: 24px 20px;
+  font-size: 20px;
+}
+
+.searchBarContainer .searchbar button {
+  border: 0;
+  border-radius: 50%;
+  width: 60px;
+  height: 30px;
+  cursor: poiter;
+  background-color: black;
+}
+
+.searchBarContainer .searchbar button img {
+  width: 25px;
+}
+
+.itemsandfilters {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.itemsandfilters .filter {
+  width: 25%;
+  height: 100%;
+  max-height: 600px;
+  background-color: red;
+}
+
+.itemsandfilters .items {
+  width: 55%;
+  background-color: red;
+}
+
 @media only screen and (max-width: 700px) {
   nav ul {
     width: 100%;
@@ -97,6 +167,9 @@ nav ul li a:hover {
     overflow: hidden;
     -webkit-transition: 0.5s;
     transition: 0.5s;
+  }
+  .searchbar {
+    margin-top: -60px;
   }
 }
 
