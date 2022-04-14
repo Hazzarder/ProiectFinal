@@ -1,0 +1,1282 @@
+[
+    {
+        "id": 1,
+        "productType": "GPU",
+        "Name": "Placa video GIGABYTE GeForce RTX 3050 GAMING OC LHR 8GB GDDR6 128-bit",
+        "Price": "650",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gygabyte"
+    },
+    {
+        "id": 2,
+        "productType": "GPU",
+        "Name": "Placa video GIGABYTE GeForce GTX 1050 Ti D5 4GB GDDR5 128-bit",
+        "Price": "250",
+        "Photo":  [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gygabyte"
+        
+    },
+    {
+        "id": 3,
+        "productType": "GPU",
+        "Name": "Placa video ASUS GeForce GTX 1050 Ti Cerberus O4G 4GB GDDR5 128-bit",
+        "Price": "270",
+        "Photo":  [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Asus"
+        
+    },
+      {
+      "id": 4,
+        "productType": "GPU",
+        "Name": "Placa video XFX Radeon RX 6600 Speedster SWFT 210 Core Gaming 8GB GDDR6 128-bit",
+        "Price": "330",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Radeon"
+      },
+      {
+        "id": 5,
+        "productType": "GPU",
+        "Name": "Placa video GIGABYTE GeForce GTX 1660 SUPER OC 6GB GDDR6 192-bit",
+        "Price": "450",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gygabyte"
+      },
+      {
+        "id": 6,
+        "productType": "GPU",
+        "Name": "Placa video Colorful GeForce GTX 1050 Ti 4GB GDDR5 128-bit",
+        "Price": "300",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Colorful"
+      },
+      {
+        "id": 7,
+        "productType": "GPU",
+        "Name": "Placa video GIGABYTE GeForce RTX 3050 EAGLE LHR 8GB GDDR6 128-bit",
+        "Price": "560",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gygabyte"
+      },
+      {
+        "id": 8,
+        "productType": "GPU",
+        "Name": "Placa video GIGABYTE GeForce RTX 3060 Ti GAMING OC LHR 8GB GDDR6 256-bit",
+        "Price": "680",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gygabyte"
+      },
+      {
+        "id": 9,
+        "productType": "GPU",
+        "Name": "Placa video GIGABYTE GeForce GTX 1660 Ti OC 6GB GDDR6 192-bit",
+        "Price": "550",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gygabyte"
+      },
+      {
+        "id": 10,
+        "productType": "GPU",
+        "Name": "Placa video Asus GeForce RTX 3060 Ti VISION OC LHR 8GB GDDR6 256-bit",
+        "Price": "900",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 11,
+        "productType": "Laptop",
+        "Name": "Laptop DELL 15.6'' Inspiron 3511, FHD, Procesor Intel® Core™ i5-1135G7 (8M Cache, up to 4.20 GHz), 8GB DDR4, 512GB SSD, Intel Iris Xe, Linux, Carbon Black, 2Yr CIS",
+        "Price": "2600",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"DELL"
+      },
+      {
+        "id": 12,
+        "productType": "Laptop",
+        "Name": "Laptop Apple 16.2'' MacBook Pro 16 Liquid Retina XDR, Apple M1 Max chip (10-core CPU), 64GB, 1TB SSD, Apple M1 Max 32-core GPU, macOS Monterey, Space Grey, INT keyboard, Late 2021",
+        "Price": "1250",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Apple"
+      },
+      {
+        "id": 13,
+        "productType": "Laptop",
+        "Name": "Laptop Apple 16.2'' MacBook Pro 16 Liquid Retina XDR, Apple M1 Max chip (10-core CPU), 32GB, 1TB SSD, Apple M1 Max 24-core GPU, macOS Monterey, Space Grey, INT keyboard, Late 2021",
+        "Price": "1480",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Apple"
+      },
+      {
+        "id": 14,
+        "productType": "Laptop",
+        "Name": "Laptop ASUS Gaming 17.3'' ROG Zephyrus S17 GX703HS, UHD 120Hz, Procesor Intel® Core™ i9-11900H (24M Cache, up to 4.80 GHz), 32GB DDR4, 3x 1TB SSD, GeForce RTX 3080 16GB, Win 10",
+        "Price": "1930",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 15,
+        "productType": "Laptop",
+        "Name": "Laptop MSI Gaming 15.6'' GE66 Raider 12UHS, UHD 120Hz, Procesor Intel® Core™ i9-12900HK (24M Cache, up to 5.00 GHz), 32GB DDR5, 1TB SSD, GeForce RTX 3080 Ti 16GB, No OS, Titanium",
+        "Price": "1320",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"MSI"
+      },
+      {
+        "id": 16,
+        "productType": "Laptop",
+        "Name": "Laptop ASUS Gaming 15.6'' ROG Strix SCAR 15 G533ZX, QHD 240Hz, Procesor Intel® Core™ i9-12900H (24M Cache, up to 5.00 GHz), 32GB DDR5, 1TB SSD, GeForce RTX 3080 Ti 16GB, Win 11",
+        "Price": "760",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 17,
+        "productType": "Laptop",
+        "Name": "Laptop Alienware Gaming 15.6'' m15 R6, QHD 240Hz, Procesor Intel® Core™ i7-11800H (24M Cache, up to 4.60 GHz), 32GB DDR4, 1TB SSD, GeForce RTX 3070 8GB, Win 10 Pro, Dark Side of the",
+        "Price": "1250",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Alienware"
+      },
+      {
+        "id": 18,
+        "productType": "Laptop",
+        "Name": "Laptop Lenovo Gaming 16'' Legion 7 16ITHg6, WQXGA IPS 165Hz G-Sync, Procesor Intel® Core™ i9-11980HK (24M Cache, up to 5.00 GHz), 32GB DDR4, 1TB SSD, GeForce RTX 3080 16GB, No OS, Storm Grey",
+        "Price": "260",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Lenovo"
+      },
+      {
+        "id": 19,
+        "productType": "Laptop",
+        "Name": "Laptop Apple 14.2'' MacBook Pro 14 Liquid Retina XDR, Apple M1 Pro chip (8-core CPU), 32GB, 512GB SSD, Apple M1 Pro 14-core GPU, macOS Monterey, Space Grey, INT keyboard, Late 2021",
+        "Price": "670",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Apple"
+      },
+      {
+        "id": 20,
+        "productType": "Laptop",
+        "Name": "Laptop ASUS Gaming 17.3'' ROG Strix SCAR 17 G733ZW, QHD 240Hz, Procesor Intel® Core™ i9-12900H (24M Cache, up to 5.00 GHz), 32GB DDR5, 1TB SSD, GeForce RTX 3070 Ti 8GB, Win 11",
+        "Price": "1170",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 21,
+        "productType": "Phone",
+        "Name": "Smartphone Apple iPhone 13 Pro Max, 512GB, 5G, Gold",
+        "Price": "2190",
+        "Photo": [
+            "poze/Iphone1",
+            "poze/Iphone2",
+            "poze/Iphone3",
+            "poze/Iphone4"
+        ],
+        "Brand":"Aplle"
+      },
+      {
+        "id": 22,
+        "productType": "Phone",
+        "Name": "Smartphone Apple iPhone 13 Pro Max, 256GB, 5G, Sierra Blue",
+        "Price": "3450",
+        "Photo": [
+            "poze/Iphone1",
+            "poze/Iphone2",
+            "poze/Iphone3",
+            "poze/Iphone4"
+        ],
+        "Brand":"Apple"
+      },
+      {
+        "id": 23,
+        "productType": "Phone",
+        "Name": "Smartphone Samsung Galaxy Z Fold 3, 120Hz Dynamic AMOLED 2X, Snapdragon 888, 256GB, 12GB RAM, Dual SIM, 5G, 5-Camere, Phantom Black",
+        "Price": "6570",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 24,
+        "productType": "Phone",
+        "Name": "Smartphone Samsung Galaxy S22 Ultra, Dynamic AMOLED 2X, 128GB, 8GB RAM, Dual SIM, 5G, 5-Camere, Green",
+        "Price": "2340",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 25,
+        "productType": "Phone",
+        "Name": "Smartphone Apple iPhone 13, 256GB, 5G, Starlight",
+        "Price": "2690",
+        "Photo": [
+            "poze/Iphone1",
+            "poze/Iphone2",
+            "poze/Iphone3",
+            "poze/Iphone4"
+        ],
+        "Brand":"Apple"
+      },
+      {
+        "id": 26,
+        "productType": "Phone",
+        "Name": "Smartphone Motorola Edge 30 Pro, 5G, display OLED 144Hz, 256GB, 12GB RAM, Dual SIM, 4-Camere, Fast Charging 68W, Cosmos Blue + Smart Stylus si Folio Edition",
+        "Price": "390",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Motorola"
+      },
+      {
+        "id": 27,
+        "productType": "Phone",
+        "Name": "Smartphone Samsung Galaxy S20 FE (2021), 4G, Snapdragon Edition, 128GB, 6GB RAM, Dual SIM, 4-Camere, Cloud Red",
+        "Price": "520",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 28,
+        "productType": "Phone",
+        "Name": "Smartphone Xiaomi 11T, 5G, AMOLED 120Hz, Dimensity 1200-Ultra, 256GB, 8GB RAM, Dual SIM, Senzor 108 MPX, TurboCharge 67W, Celestial Blue",
+        "Price": "780",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Xiaomi"
+      },
+      {
+        "id": 29,
+        "productType": "Phone",
+        "Name": "Smartphone Samsung Galaxy A52, 4G, 90Hz Super AMOLED, 256GB, 8GB RAM, Dual SIM, 5-Camere, Awesome Black",
+        "Price": "100",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 30,
+        "productType": "Phone",
+        "Name": "Smartphone Xiaomi POCO X4 Pro, 5G, Display AMOLED 120Hz, Snapdragon 695, 128GB, 6GB RAM, Dual SIM, Fast Charging 67W, Baterie 5000 mAh, Android 11, Laser Black",
+        "Price": "150",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Xiaomi"
+      },
+      {
+        "id": 31,
+        "productType": "Accesories",
+        "Name": "HP Rucsac notebook 15.6 inch ENVY Urban, rezistent la apa",
+        "Price": "4950",
+        "Photo": "",
+        "Brand":"HP"
+      },
+      {
+        "id": 32,
+        "productType": "Accesories",
+        "Name": "Lenovo Rucsac notebook 15.6 inch Commuter Black",
+        "Price": "1390",
+        "Photo": "",
+        "Brand":"Lenovo"
+      },{
+        "id": 33,
+        "productType": "Accesories",
+        "Name": "HP Rucsac notebook 15.6 inch Renew Travel, rezistent la apa",
+        "Price": "1470",
+        "Photo": "",
+        "Brand":"HP"
+      },
+      {
+        "id": 34,
+        "productType": "Accesories",
+        "Name": "Lenovo Rucsac notebook 17.3 inch Armored Backpack II Black",
+        "Price": "2750",
+        "Photo": "",
+        "Brand":"Lenovo"
+      },
+      {
+        "id": 35,
+        "productType": "Accesories",
+        "Name": "Ochelari gaming Gunnar RPG Designed By Razer",
+        "Price": "2750",
+        "Photo": "",
+        "Brand":"Gunnar"
+      },
+      {
+        "id": 36,
+        "productType": "Accesories",
+        "Name": "Ochelari gaming Gunnar ESL Blade Onyx Amber",
+        "Price": "860",
+        "Photo": "",
+        "Brand":"Gunnar"
+      },
+      {
+        "id": 37,
+        "productType": "Accesories",
+        "Name": "Controller Trust GXT 545 Yula Wireless pentru PC si PlayStation 3",
+        "Price": "850",
+        "Photo": "",
+        "Brand":"Trust"
+      },
+      {
+        "id": 38,
+        "productType": "Accesories",
+        "Name": "Controller Tt eSPORTS by Thermaltake CONTOUR Mobile Gaming Controller",
+        "Price": "750",
+        "Photo": "",
+        "Brand":"Thermaltake"
+      },
+      {
+        "id": 39,
+        "productType": "Accesories",
+        "Name": "Controller Turtle Beach Recon Black",
+        "Price": "1920",
+        "Photo": "",
+        "Brand":"Turtle"
+      },
+      {
+        "id": 40,
+        "productType": "Accesories",
+        "Name": "Controller Canyon CND-GPW5 Wireless pentru PS4",
+        "Price": "2880",
+        "Photo": "",
+        "Brand":"Canyon"
+      },
+      {
+        "id": 41,
+        "productType": "PC",
+        "Name": "PC Gaming Behemoth Powered By Corsair ICUE, Intel i9 12900K 3.2GHz, 32GB DDR4, 2TB SSD + 1TB SSD, RTX 3080 Ti 12GB GDDR6X, Iluminare iCUE RGB",
+        "Price": "5320",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Corsair"
+      },
+      {
+        "id": 42,
+        "productType": "PC",
+        "Name": "PC Gaming Kraken Powered By Corsair ICUE, AMD Ryzen 9 5900X 3.7 GHz, 32GB DDR4, 2TB HDD + 1TB SSD, RX 6900 XT 16GB GDDR6, Iluminare RGB, Windows 11 Home preinstalat",
+        "Price": "2520",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Corsair"
+      },
+      {
+        "id": 43,
+        "productType": "PC",
+        "Name": "PC Gaming Frost Giant Powered By Corsair ICUE, AMD Ryzen 5 5600X 3.7GHz, 32GB DDR4, 1TB SSD, RTX 3070 Ti 8GB GDDR6, Iluminare iCUE RGB, Windows 11 Home preinstalat ",
+        "Price": "960 ",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Corsair"
+      },
+      {
+        "id": 44,
+        "productType": "PC",
+        "Name": "PC Gaming Viper, Intel i7 12700KF 3.6GHz, 32GB DDR5, 1TB SSD + 2TB HDD, RX 6900 XT 16GB GDDR6, Windows 11 Home preinstalat (Game Ready)",
+        "Price": "2640",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Viper"
+      },
+      {
+        "id": 45,
+        "productType": "PC",
+        "Name": "PC Work & Play Creator V2 Powered by ASUS, AMD Ryzen 7 5800X 3.8GHz, 32GB DDR4, 1TB SSD + 4TB HDD, Radeon RX 6600 XT 8GB GDDR6",
+        "Price": "1850",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 46,
+        "productType": "PC",
+        "Name": "PC Gaming Raptor5 Intel, Intel i5-11400F 2.6GHz, 32GB DDR4, 500GB SSD + 1TB HDD, GTX 1660 SUPER 6GB GDDR6, Iluminare RGB",
+        "Price": "2700",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Raptor"
+      },
+      {
+        "id": 47,
+        "productType": "PC",
+        "Name": "PC Gaming Fenrir, AMD Ryzen 7 5800X 3.8GHz, 16GB DDR4, 128GB SSD + 2TB SSD, RX 6700 XT 12GB GDDR6, Iluminare RGB, Windows 10 Home preinstalat (Game Ready)",
+        "Price": "2950",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Fenrir"
+      },
+      {
+        "id": 48,
+        "productType": "PC",
+        "Name": "PC Gaming Dragon, AMD Ryzen 7 5700G 3.8GHz, 32GB DDR4, 2TB HDD + 500GB SSD, RTX 3060 Ti 8GB GDDR6, Iluminare RGB",
+        "Price": "2850",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Dragon"
+      },
+      {
+        "id": 49,
+        "productType": "PC",
+        "Name": "PC Gaming Viking AMD Powered By ASUS, AMD Ryzen 5 1600AF 3.2GHz, 16GB DDR4, 500GB SSD, GTX 1650 4GB GDDR6, Iluminare RGB",
+        "Price": "1300",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Viking"
+      },
+      {
+        "id": 50,
+        "productType": "PC",
+        "Name": "PC Gaming Gygabyte, Intel i5 11400 2.6GHz, 16GB DDR4, 500GB SSD, GMA UHD 730, Iluminare RGB",
+        "Price": "1550",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Gygabyte"
+      },
+      {
+        "id": 51,
+        "productType": "Speakers",
+        "Name": "Sistem Home Cinema Samsung HW-T450 2.1 Black",
+        "Price": "970",
+        "Photo": [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 52,
+        "productType": "Speakers",
+        "Name": "Sistem Home Cinema LG Soundbar SJ2, sistem 2.1, putere 30W, Bluetooth",
+        "Price": "835",
+        "Photo": [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"LG"
+      },
+      {
+        "id": 53,
+        "productType": "Speakers",
+        "Name": "Sistem Home Cinema Panasonic SC-HTB510EGK, 2.1 ch, 240W, WiFi, Bluetooth Wireless Technology, Panasonic Music Streaming App, USB, Subwoofer wireless",
+        "Price": "2895",
+        "Photo": [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"Panasonic"
+      },
+      {
+        "id": 54,
+        "productType": "Speakers",
+        "Name": "Sistem Home Cinema Samsung HW-T430 2.1 Black",
+        "Price": "7505",
+        "Photo": [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 55,
+        "productType": "Speakers",
+        "Name": "Sistem Home Cinema Panasonic SC-HTB250EGK, 120W, Bluetooth, Subwoofer wireless, H.BASS, negru",
+        "Price": "1950",
+        "Photo": [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"Panasonic"
+      },
+      {
+        "id": 56,
+        "productType": "Speakers",
+        "Name": "Boxa Logitech Z120 White",
+        "Price": "1250",
+        "Photo": [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"Logitech"
+      },
+      {
+        "id": 57,
+        "productType": "Speakers",
+        "Name": "Boxa Spacer SPB-2200 2.1 Black",
+        "Price": "1075",
+        "Photo":  [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"Spacer"
+      },
+      {
+        "id": 58,
+        "productType": "Speakers",
+        "Name": "Boxa Genius SP-HF180 2.0 Black",
+        "Price": "170",
+        "Photo": [
+            "poze/Boxe1",
+            "poze/Boxe2",
+            "poze/Boxe3"
+        ],
+        "Brand":"Genius"
+      },
+      {
+        "id": 59,
+        "productType": "Accesories",
+        "Name": "Controller Genesis Mangan 200",
+        "Price": "90",
+        "Photo": "",
+        "Brand":"Genesis"
+      },
+      {
+        "id": 60,
+        "productType": "GPU",
+        "Name": "Placa video Zotac GeForce RTX 3090 GAMING OC 24GB GDDR6X 384-bit",
+        "Price": "2100",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Zotac"
+      },
+      {
+        "id": 61,
+        "productType": "GPU",
+        "Name": "Placa video Gainward GeForce RTX 3080 Ti Phoenix LHR 12GB GDDR6X 384-bit",
+        "Price": "1640",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gainward"
+      },
+      {
+        "id": 62,
+        "productType": "Laptop",
+        "Name": "Laptop MSI Gaming 15.6'' Crosshair 15 B12UEZ, QHD 165Hz, Procesor Intel® Core™ i7-12700H (24M Cache, up to 4.70 GHz), 16GB DDR4, 1TB SSD, GeForce RTX 3060 6GB, No OS",
+        "Price": "1370",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"MSI"
+      },
+      {
+        "id": 63,
+        "productType": "PC",
+        "Name": "PC Gaming Sabre, Intel i3-10100 3.6GHz, 16GB DDR4, 500GB SSD, GMA UHD 630, Iluminare RGB",
+        "Price": "1285",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Sabre"
+      },
+      
+      {
+        "id": 64,
+        "productType": "Laptop",
+        "Name": "Laptop HP Gaming 17.3'' OMEN 17-ck0025nq, QHD IPS 165Hz, Procesor Intel® Core™ i9-11900H (24M Cache, up to 4.80 GHz), 16GB DDR4, 1TB SSD, GeForce RTX 3070 8GB, Win 11 Home",
+        "Price": "955",
+        "Photo":  [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"HP"
+      },
+      {
+        "id": 65,
+        "productType": "GPU",
+        "Name": "Placa video MSI GeForce RTX 3080 Ti GAMING X TRIO LHR 12GB GDDR6X 384-bit",
+        "Price": "1700",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"MSI"
+      },
+      {
+        "id": 66,
+        "productType": "GPU",
+        "Name": "Placa video ASUS GeForce RTX 3080 TUF GAMING O12G LHR 12GB GDDR6X 384-bit",
+        "Price": "1400",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 67,
+        "productType": "Laptop",
+        "Name": "Laptop DELL Gaming 15.6'' G15 5515 Ryzen Edition, FHD 120Hz, Procesor AMD Ryzen™ 7 5800H (16M Cache, up to 4.4 GHz), 16GB DDR4, 1TB SSD, GeForce RTX 3060 6GB, Win 10 Pro, Grey",
+        "Price": "745",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"DELL"
+      },
+      {
+        "id": 68,
+        "productType": "PC",
+        "Name": "PC Office Start A3G, AMD Athlon 3000G 3.5GHz, 8GB DDR4, 500GB SSD, AMD Radeon™ Vega 3",
+        "Price": "1465",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Start"
+      },
+      {
+        "id": 69,
+        "productType": "Accesories",
+        "Name": "Controller Razer Wolverine Ultimate PC,Xbox One",
+        "Price": "765",
+        "Photo": "",
+        "Brand":"Razer"
+      },
+      {
+        "id": 70,
+        "productType": "Accesories",
+        "Name": "Controller Razer Kishi pentru Android",
+        "Price": "1245",
+        "Photo": "",
+        "Brand":"Razer"
+      },
+      {
+        "id": 71,
+        "productType": "GPU",
+        "Name": "Placa video Sapphire Radeon RX 6900 XT TOXIC Limited Edition 16GB GDDR6 256-bit",
+        "Price": "1300",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Radeon"
+      },
+      {
+        "id": 72,
+        "productType": "Laptop",
+        "Name": "Laptop ASUS Gaming 16'' ROG Zephyrus M16 GU603ZE, WUXGA 165Hz, Procesor Intel® Core™ i7-12700H (24M Cache, up to 4.70 GHz), 16GB DDR5, 512GB SSD, GeForce RTX 3050 Ti 4GB, No OS",
+        "Price": "955",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 73,
+        "productType": "Tab",
+        "Name": "Tableta Apple iPad Pro 11 (2021) 256GB Wi-Fi + Cellular Space Grey",
+        "Price": "175",
+        "Photo": "",
+        "Brand":"Apple"
+      },
+      {
+        "id": 74,
+        "productType": "Tab",
+        "Name": "Tableta Apple iPad Mini 6 (2021) 8.3 inch 64GB Wi-Fi + Cellular Space Grey",
+        "Price": "1900",
+        "Photo": "",
+        "Brand":"Apple"
+      },
+      {
+        "id": 75,
+        "productType": "Tab",
+        "Name": "Tableta Samsung Galaxy Tab A8, 10.5 inch Multi-touch, Cortex A75-A55 Octa Core 2GHz, 3GB RAM, 32GB flash, Wi-Fi, Bluetooth, GPS, LTE, Android 11, Gray",
+        "Price": "210",
+        "Photo": "",
+        "Brand":"Samsung"
+      },
+      {
+        "id": 76,
+        "productType": "Tab",
+        "Name": "Tableta Samsung Galaxy Tab A8, 10.5 inch Multi-touch, Cortex A75-A55 Octa Core 2GHz, 3GB RAM, 32GB flash, Wi-Fi, Bluetooth, GPS, Android 11, Pink Gold",
+        "Price": "195",
+        "Photo": "",
+        "Brand":"Samsung"
+      },
+      {
+        "id": 77,
+        "productType": "Tab",
+        "Name": "Tableta Lenovo ThinkSmart View, 8 inch Multi-touch, Snapdragon 624 1.8GHz Octa Core, 2GB RAM, 8GB flash, Wi-Fi, Bluetooth, AOSP 8.1, Business Black",
+        "Price": "185",
+        "Photo": "",
+        "Brand":"Lenovo"
+      },
+      {
+        "id": 78,
+        "productType": "Router",
+        "Name": "Router wireless ASUS Gigabit RT-AX89X Dual-Band",
+        "Price": "65",
+        "Photo":[
+            "poze/Router1",
+            "poze/Router2",
+            "poze/Router3"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 79,
+        "productType": "Router",
+        "Name": "Router wireless ASUS Gigabit ROG Rapture GT-AX11000 Tri-Band WiFi 6",
+        "Price": "45",
+        "Photo": [
+            "poze/Router1",
+            "poze/Router2",
+            "poze/Router3"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 80,
+        "productType": "Router",
+        "Name": "Router wireless ASUS 2.5GB ROG Rapture GT-AX6000 Dual Band WiFi 6",
+        "Price": "55",
+        "Photo": [
+            "poze/Router1",
+            "poze/Router2",
+            "poze/Router3"
+        ],
+        "Brand":"Asus"
+      },
+      {
+        "id": 81,
+        "productType": "Router",
+        "Name": "Router wireless Linksys MX5 Velop Tri-Band WiFi 6",
+        "Price": "50",
+        "Photo": [
+            "poze/Router1",
+            "poze/Router2",
+            "poze/Router3"
+        ],
+        "Brand":"Linksys"
+      },
+      {
+        "id": 82,
+        "productType": "Router",
+        "Name": "Router wireless Synology Gigabit MR2200ac Tri-Band WiFi 5",
+        "Price": "25",
+        "Photo": [
+            "poze/Router1",
+            "poze/Router2",
+            "poze/Router3"
+        ],
+        "Brand":"Synology"
+      },
+      {
+        "id": 83,
+        "productType": "Router",
+        "Name": "Router wireless TP-LINK Gigabit Archer AX50 Dual-Band WiFi 6",
+        "Price": "15",
+        "Photo": [
+            "poze/Router1",
+            "poze/Router2",
+            "poze/Router3"
+        ],
+        "Brand":"TP-link"
+      },
+      {
+        "id": 84,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon EOS 6D MARK II Body Black",
+        "Price": "550",
+        "Photo": "",
+        "Brand":"Canon"
+      },
+      {
+        "id": 85,
+        "productType": "Camera",
+        "Name": "Aparat foto Nikon D7500 Negru + Obiectiv AF-S DX 18-140mm f/3.5-5.6G VR Nikkor",
+        "Price": "1325",
+        "Photo": "",
+        "Brand":"Nikon"
+      },
+      {
+        "id": 86,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon EOS 80D Body (WIFI)",
+        "Price": "1195",
+        "Photo": "",
+        "Brand":"Canon"
+      },
+      {
+        "id": 87,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon EOS 850D Black + obiectiv EF-S 18-55mm f/3.5-5.6 IS STM",
+        "Price": "1055",
+        "Photo": "",
+        "Brand":"Canon"
+      },
+      {
+        "id": 88,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon EOS M6 kit EF-M 15-45mm f/3.5-6.3 IS STM negru",
+        "Price": "1235",
+        "Photo": "",
+        "Brand":"Canon"
+      },
+      {
+        "id": 89,
+        "productType": "Camera",
+        "Name": "Aparat foto Nikon D5600 Kit AF-P 18-55mm VR (black)",
+        "Price": "1752",
+        "Photo": "",
+        "Brand":"Nikon"
+      },
+      {
+        "id": 90,
+        "productType": "Camera",
+        "Name": "Aparat foto Olympus E-M10 Mark III negru + EZ-M14150 IIR negru",
+        "Price": "1329",
+        "Photo": "",
+        "Brand":"Olympus"
+      },
+      {
+        "id": 91,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon Powershot PX Black",
+        "Price": "1325",
+        "Photo": "",
+        "Brand":"Canon"
+      },
+      {
+        "id": 92,
+        "productType": "Camera",
+        "Name": "Aparat foto Polaroid Now Keith Haring Edition",
+        "Price": "946",
+        "Photo": "",
+        "Brand":"Now"
+      },
+      {
+        "id": 94,
+        "productType": "GPU",
+        "Name": "Placa video MSI GeForce RTX 3070 Ti GAMING X TRIO LHR 8GB GDDR6X 256-bit",
+        "Price": "850",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"MSI"
+      },
+      {
+        "id": 95,
+        "productType": "GPU",
+        "Name": "Placa video Gainward GeForce RTX 3070 Ti Phoenix LHR 8GB GDDR6X 256-bit",
+        "Price": "750",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Gainward"
+      },
+      {
+        "id": 96,
+        "productType": "Accesories",
+        "Name": "Controller Microsoft Xbox Series X Wireless - Carbon Black + USB-C Cable",
+        "Price": "752",
+        "Photo": "",
+        "Brand":"Microsoft"
+      },
+      {
+        "id": 97,
+        "productType": "Accesories",
+        "Name": "Rii i7 Smart TV cu TouchPad si AirMouse",
+        "Price": "592",
+        "Photo": "",
+        "Brand":"Rii"
+      },{
+        "id": 98,
+        "productType": "GPU",
+        "Name": "Placa video Zotac GeForce RTX 3070 Twin Edge OC White Edition LHR 8GB GDDR6 256-bit",
+        "Price": "800",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Zotac"
+      },
+      {
+        "id": 99,
+        "productType": "Laptop",
+        "Name": "Laptop HP Gaming 16.1'' OMEN 16-b0021nq, QHD IPS 165Hz, Procesor Intel® Core™ i7-11800H (24M Cache, up to 4.60 GHz), 16GB DDR4, 512GB SSD, GeForce RTX 3060 6GB, Win 11 Home",
+        "Price": "650",
+        "Photo": [
+            "poze/Laptop1",
+            "poze/Laptop2",
+            "poze/Laptop3",
+            "poze/Laptop4"
+        ],
+        "Brand":"HP"
+      },
+      {
+        "id": 100,
+        "productType": "PC",
+        "Name": "PC Gaming Sabre, Intel i3-10100 3.6GHz, 16GB DDR4, 500GB SSD, GMA UHD 630, Iluminare RGB",
+        "Price": "800",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Sabre"
+      },
+      {
+        "id": 101,
+        "productType": "Camera",
+        "Name": "Aparat foto Polaroid Now Mint",
+        "Price": "1970",
+        "Photo": "",
+        "Brand":"Now"
+      },
+      {
+        "id": 102,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon IXUS 185 Black",
+        "Price": "1630",
+        "Photo": "",
+        "Brand":"Canon"
+      },{
+        "id": 103,
+        "productType": "Camera",
+        "Name": "Aparat foto Nikon Z6 Kit 24-70mm Negru",
+        "Price": "1760",
+        "Photo": "",
+        "Brand":"Nikon"
+      },
+      {
+        "id": 104,
+        "productType": "Accesories",
+        "Name": "Accesoriu Tile Mate+ (2020) 4-pack",
+        "Price": "700",
+        "Photo": "",
+        "Brand":"Tile"
+      },
+      {
+        "id": 105,
+        "productType": "GPU",
+        "Name": "Placa video Colorful Radeon RX 6900 XT Red Devil 16GB GDDR6 256-bit",
+        "Price": "1200",
+        "Photo": [
+            "poze/PlacaVideo1",
+            "poze/PlacaVideo2",
+            "poze/PlacaVideo3",
+            "poze/PlacaVideo4"
+        ],
+        "Brand":"Colorful"
+      },
+      {
+        "id": 106,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon EOS 90D Black + obiectiv EF-S 18-55mm f/3.5-5.6 IS STM",
+        "Price": "2500",
+        "Photo": "",
+        "Brand":"Canon"
+      },
+      {
+        "id": 107,
+        "productType": "PC",
+        "Name": "PC Gaming Balaur Powered By Kingston FURY, Intel i3 10100F 3.6GHz, 16GB DDR4, 500GB SSD, RTX 3060 12GB GDDR6, Iluminare RGB",
+        "Price": "4000",
+        "Photo": [
+            "poze/PC1",
+            "poze/PC2",
+            "poze/PC3",
+            "poza/PC4"
+        ],
+        "Brand":"Balaur"
+      },
+      {
+        "id": 108,
+        "productType": "Camera",
+        "Name": "Aparat foto Canon PowerShot G3 X Negru",
+        "Price": "2800",
+        "Photo": "",
+        "Brand":"Canon"
+      },
+      {
+        "id": 108,
+        "productType": "Phone",
+        "Name": "Smartphone Samsung Galaxy M22, 90Hz Super AMOLED, Octa Core, 128GB, 4GB RAM, Dual SIM, 4G, 5-Camere, Baterie 5000 mAh, Light Blue",
+        "Price": "200",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 108,
+        "productType": "Phone",
+        "Name": "Smartphone Apple iPhone 11, 64GB, Red",
+        "Price": "1400",
+        "Photo": [
+            "poze/Iphone1",
+            "poze/Iphone2",
+            "poze/Iphone3",
+            "poze/Iphone4"
+        ],
+        "Brand":"Apple"
+      },
+      {
+        "id": 108,
+        "productType": "Phone",
+        "Name": "Smartphone Xiaomi 11 Lite NE, 5G Edition, AMOLED, 128GB, 8GB RAM, Dual SIM, 5G, 4-Camere, Green",
+        "Price": "1100",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Xiaomi"
+      },
+      {
+        "id": 108,
+        "productType": "Phone",
+        "Name": "Smartphone Motorola Edge 20 Pro, 5G, display OLED 144Hz, 256GB, 12GB RAM, Dual SIM, 4-Camere, senzor 108 MPX, functie Super Zoom 50x, Blue Vegan Leather",
+        "Price": "900",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Motorola"
+      },
+      {
+        "id": 108,
+        "productType": "Phone",
+        "Name": "Smartphone Samsung Galaxy S20 FE, 5G, Snapdragon Edition, 128GB, 6GB RAM, Dual SIM, 4-Camere, Cloud Orange",
+        "Price": "540",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Samsung"
+      },
+      {
+        "id": 108,
+        "productType": "Phone",
+        "Name": "Smartphone Samsung Galaxy S21 FE, 5G, 120Hz Dynamic AMOLED 2X, 128GB, Snapdragon 888, 6GB RAM, Dual SIM, 4-Camere, White",
+        "Price": "600",
+        "Photo": [
+            "poze/Samsung1",
+            "poze/Samsung2",
+            "poze/Samsung3",
+            "poze/Samsung4"
+        ],
+        "Brand":"Samsung"
+      }
+]

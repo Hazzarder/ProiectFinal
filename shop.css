@@ -6,7 +6,6 @@
 
 .container {
   width: 100%;
-  min-height: 100vh;
   padding-left: 8%;
   padding-right: 8%;
   -webkit-box-sizing: border-box;
@@ -63,6 +62,33 @@ nav ul li a:hover {
   color: #F1D9B2;
 }
 
+@media only screen and (max-width: 700px) {
+  nav ul {
+    width: 100%;
+    background: #262626;
+    position: absolute;
+    top: 75px;
+    right: 0;
+    z-index: 2;
+  }
+  nav ul li {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  nav ul li a {
+    color: #fff;
+  }
+  .menu-button {
+    display: block;
+  }
+  #menulist {
+    overflow: hidden;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+  }
+}
+
 .social-links {
   text-align: center;
 }
@@ -71,6 +97,162 @@ nav ul li a:hover {
   height: 13px;
   margin: 20px;
   cursor: pointer;
+}
+
+.footerLinks {
+  text-align: center;
+  list-style: none;
+  text-decoration: none;
+}
+
+.footerLinks ul li {
+  margin: 5px;
+}
+
+.containerForm {
+  max-width: 700px;
+  width: 100%;
+  background-color: white;
+  padding: 25px 30px;
+  border-radius: 5px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5px solid black;
+}
+
+.containerForm .titleForm {
+  font-size: 25px;
+  font-weight: 500;
+  position: relative;
+}
+
+.containerForm .title::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 30px;
+  background: blue;
+}
+
+.containerForm form .user-details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 20px 0 12px 0;
+}
+
+form .user-details .input-box {
+  margin-bottom: 15px;
+  width: calc(100% / 2 - 20px);
+}
+
+.user-details .input-box .details {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.user-details .input-box input {
+  height: 45px;
+  width: 100%;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding-left: 15px;
+  font-size: 16px;
+  border-bottom-width: 2px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.user-details .input-box input:focus,
+.user-details .input-box input:valid {
+  border-color: blue;
+}
+
+form .gender-details .gender-title {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+form .gender-details .category {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 80%;
+  margin: 14px 0;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.gender-details .category label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.gender-details .category .dot {
+  height: 18px;
+  width: 18px;
+  background: #d9d9d9;
+  border-radius: 50%;
+  margin-right: 10px;
+  border: 5px solid transparent;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+#dot-1:checked ~ .category label .one,
+#dot-2:checked ~ .category label .two,
+#dot-3:checked ~ .category label .three {
+  border-color: #d9d9d9;
+  background: black;
+}
+
+form input[type="radio"] {
+  display: none;
+}
+
+form .buttonForm {
+  height: 45px;
+  margin: 45px 0;
+}
+
+form .buttonForm input {
+  height: 100%;
+  width: 100%;
+  outline: none;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  background: linear-gradient(135deg, #101010, #707070);
+  cursor: pointer;
+}
+
+form .buttonForm input:hover {
+  background: linear-gradient(-135deg, #101010, #707070);
+}
+
+.cont {
+  display: block;
+  position: relative;
+  text-align: center;
 }
 
 .searchBarContainer {
@@ -133,53 +315,16 @@ nav ul li a:hover {
 
 .itemsandfilters .filter {
   width: 25%;
-  height: 100%;
+  height: 400px;
   max-height: 600px;
   background-color: red;
+  border: solid 1px black;
 }
 
 .itemsandfilters .items {
-  width: 55%;
+  width: 75%;
+  height: 600px;
+  border: solid 1px black;
   background-color: red;
-}
-
-@media only screen and (max-width: 700px) {
-  nav ul {
-    width: 100%;
-    background: #262626;
-    position: absolute;
-    top: 75px;
-    right: 0;
-    z-index: 2;
-  }
-  nav ul li {
-    display: block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-  nav ul li a {
-    color: #fff;
-  }
-  .menu-button {
-    display: block;
-  }
-  #menulist {
-    overflow: hidden;
-    -webkit-transition: 0.5s;
-    transition: 0.5s;
-  }
-  .searchbar {
-    margin-top: -60px;
-  }
-}
-
-.footerLinks {
-  text-align: center;
-  list-style: none;
-  text-decoration: none;
-}
-
-.footerLinks ul li {
-  margin: 5px;
 }
 /*# sourceMappingURL=shop.css.map */

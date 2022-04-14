@@ -1,2 +1,0 @@
-# ProiectFinal
-Proiect final wantsome

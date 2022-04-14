@@ -4,58 +4,10 @@
     font-family: sans-serif;
     
 }
-.container{
-    width: 100%;
-    min-height: 100vh;
-    padding-left: 8%;
-    padding-right: 8%;
-    box-sizing: border-box;
-    overflow:hidden;
-}
-.navbar{
-    width: 100%;
-    display: flex;
-    align-items: center;
-}
-.logo{
-    width: 50px;
-    cursor: poiner;
-    margin: 0;
-    background-color: white;
-}
-.menu-button{
-    width: 25px;
-    cursor: pointer;
-    display: none;
-}
-nav{
-    flex: 1;
-    text-align: right;
-    ul{
-        list-style: none;
-        li{
-            
-            display: inline-block;
-            margin-right: 30px;
-            a{
-                text-decoration: none;
-                color: black;
-                font-size: 14px;
-                &:hover{
-                    color: #F1D9B2;
-                }
-            }
-        }
-    }
-}
-.social-links{
-    text-align: center;
-    img{
-        height: 13px;
-        margin: 20px;
-        cursor: pointer;
-    }
-}
+@import "src/navbar";
+@import "src/footer";
+
+
 .searchBarContainer{
     display: flex;
     align-items: center;
@@ -100,59 +52,19 @@ nav{
     display: flex;
     .filter{
         width: 25%;
-        height: 100%;
+        height: 400px;
         max-height: 600px;
         background-color: red;
+        border: solid 1px black;
 
 
     }
     .items{
-        width: 55%;
+        width: 75%;
+        height: 600px;
+        border: solid 1px black;
         background-color: red ;
     }
 
 }
 
-@media only screen and (max-width:700px){
-    
-    nav ul{
-        width: 100%;
-        background: #262626;
-        position: absolute;
-        top: 75px;
-        right: 0;
-        z-index: 2;
-    }
-    nav ul li{
-        display: block;
-        margin-top: 10px;
-        margin-bottom: 10px;
-    }
-    nav ul li a{
-        color: #fff;
-    }
-    .menu-button{
-        display: block;
-    }
-    #menulist{
-        overflow: hidden;
-        transition: 0.5s;
-    }
-    .searchbar{
-        margin-top: -60px;
-}
-
-}
-.footerLinks{
-    
-    text-align: center;
-    
-    
-    list-style: none;
-    text-decoration: none;
-    ul{
-        li{
-            margin: 5px;
-        }
-    }
-}
