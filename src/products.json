@@ -396,7 +396,11 @@
         "productType": "Accesories",
         "Name": "HP Rucsac notebook 15.6 inch ENVY Urban, rezistent la apa",
         "Price": "4950",
-        "Photo": "",
+        "Photo": [
+            "poze/Geanta1",
+            "poze/Geanta2",
+            "poze/Geanta3"
+        ],
         "Brand":"HP"
       },
       {
@@ -404,14 +408,22 @@
         "productType": "Accesories",
         "Name": "Lenovo Rucsac notebook 15.6 inch Commuter Black",
         "Price": "1390",
-        "Photo": "",
+        "Photo":  [
+            "poze/Geanta1",
+            "poze/Geanta2",
+            "poze/Geanta3"
+        ],
         "Brand":"Lenovo"
       },{
         "id": 33,
         "productType": "Accesories",
         "Name": "HP Rucsac notebook 15.6 inch Renew Travel, rezistent la apa",
         "Price": "1470",
-        "Photo": "",
+        "Photo":  [
+            "poze/Geanta1",
+            "poze/Geanta2",
+            "poze/Geanta3"
+        ],
         "Brand":"HP"
       },
       {
@@ -419,7 +431,11 @@
         "productType": "Accesories",
         "Name": "Lenovo Rucsac notebook 17.3 inch Armored Backpack II Black",
         "Price": "2750",
-        "Photo": "",
+        "Photo":  [
+            "poze/Geanta1",
+            "poze/Geanta2",
+            "poze/Geanta3"
+        ],
         "Brand":"Lenovo"
       },
       {
@@ -427,7 +443,10 @@
         "productType": "Accesories",
         "Name": "Ochelari gaming Gunnar RPG Designed By Razer",
         "Price": "2750",
-        "Photo": "",
+        "Photo": [
+            "poze/Ochelari1",
+            "poze/Ochelari2"
+        ],
         "Brand":"Gunnar"
       },
       {
@@ -435,7 +454,10 @@
         "productType": "Accesories",
         "Name": "Ochelari gaming Gunnar ESL Blade Onyx Amber",
         "Price": "860",
-        "Photo": "",
+        "Photo":  [
+            "poze/Ochelari1",
+            "poze/Ochelari2"
+        ],
         "Brand":"Gunnar"
       },
       {
@@ -443,7 +465,11 @@
         "productType": "Accesories",
         "Name": "Controller Trust GXT 545 Yula Wireless pentru PC si PlayStation 3",
         "Price": "850",
-        "Photo": "",
+        "Photo": [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Trust"
       },
       {
@@ -451,7 +477,11 @@
         "productType": "Accesories",
         "Name": "Controller Tt eSPORTS by Thermaltake CONTOUR Mobile Gaming Controller",
         "Price": "750",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Thermaltake"
       },
       {
@@ -459,7 +489,11 @@
         "productType": "Accesories",
         "Name": "Controller Turtle Beach Recon Black",
         "Price": "1920",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Turtle"
       },
       {
@@ -467,7 +501,11 @@
         "productType": "Accesories",
         "Name": "Controller Canyon CND-GPW5 Wireless pentru PS4",
         "Price": "2880",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Canyon"
       },
       {
@@ -479,7 +517,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Corsair"
       },
@@ -492,7 +530,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Corsair"
       },
@@ -505,7 +543,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Corsair"
       },
@@ -518,7 +556,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Viper"
       },
@@ -531,7 +569,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Asus"
       },
@@ -544,7 +582,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Raptor"
       },
@@ -557,7 +595,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Fenrir"
       },
@@ -570,7 +608,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Dragon"
       },
@@ -583,7 +621,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Viking"
       },
@@ -596,7 +634,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Gygabyte"
       },
@@ -701,7 +739,11 @@
         "productType": "Accesories",
         "Name": "Controller Genesis Mangan 200",
         "Price": "90",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Genesis"
       },
       {
@@ -752,7 +794,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Sabre"
       },
@@ -818,7 +860,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Start"
       },
@@ -827,7 +869,11 @@
         "productType": "Accesories",
         "Name": "Controller Razer Wolverine Ultimate PC,Xbox One",
         "Price": "765",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Razer"
       },
       {
@@ -835,7 +881,11 @@
         "productType": "Accesories",
         "Name": "Controller Razer Kishi pentru Android",
         "Price": "1245",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Razer"
       },
       {
@@ -869,7 +919,10 @@
         "productType": "Tab",
         "Name": "Tableta Apple iPad Pro 11 (2021) 256GB Wi-Fi + Cellular Space Grey",
         "Price": "175",
-        "Photo": "",
+        "Photo": [
+            "poze/Ipad1",
+            "poze/Ipad2"
+        ],
         "Brand":"Apple"
       },
       {
@@ -877,7 +930,10 @@
         "productType": "Tab",
         "Name": "Tableta Apple iPad Mini 6 (2021) 8.3 inch 64GB Wi-Fi + Cellular Space Grey",
         "Price": "1900",
-        "Photo": "",
+        "Photo":  [
+            "poze/Ipad1",
+            "poze/Ipad2"
+        ],
         "Brand":"Apple"
       },
       {
@@ -885,7 +941,11 @@
         "productType": "Tab",
         "Name": "Tableta Samsung Galaxy Tab A8, 10.5 inch Multi-touch, Cortex A75-A55 Octa Core 2GHz, 3GB RAM, 32GB flash, Wi-Fi, Bluetooth, GPS, LTE, Android 11, Gray",
         "Price": "210",
-        "Photo": "",
+        "Photo": [
+            "poze/TabletaSamsung1",
+            "poze/TabletaSamsung2",
+            "poze/TabletaSamsung3"
+        ],
         "Brand":"Samsung"
       },
       {
@@ -893,7 +953,11 @@
         "productType": "Tab",
         "Name": "Tableta Samsung Galaxy Tab A8, 10.5 inch Multi-touch, Cortex A75-A55 Octa Core 2GHz, 3GB RAM, 32GB flash, Wi-Fi, Bluetooth, GPS, Android 11, Pink Gold",
         "Price": "195",
-        "Photo": "",
+        "Photo": [
+            "poze/TabletaSamsung1",
+            "poze/TabletaSamsung2",
+            "poze/TabletaSamsung3"
+        ],
         "Brand":"Samsung"
       },
       {
@@ -901,7 +965,11 @@
         "productType": "Tab",
         "Name": "Tableta Lenovo ThinkSmart View, 8 inch Multi-touch, Snapdragon 624 1.8GHz Octa Core, 2GB RAM, 8GB flash, Wi-Fi, Bluetooth, AOSP 8.1, Business Black",
         "Price": "185",
-        "Photo": "",
+        "Photo": [
+            "poze/TabletaSamsung1",
+            "poze/TabletaSamsung2",
+            "poze/TabletaSamsung3"
+        ],
         "Brand":"Lenovo"
       },
       {
@@ -981,7 +1049,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon EOS 6D MARK II Body Black",
         "Price": "550",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },
       {
@@ -989,7 +1061,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Nikon D7500 Negru + Obiectiv AF-S DX 18-140mm f/3.5-5.6G VR Nikkor",
         "Price": "1325",
-        "Photo": "",
+        "Photo":[
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ] ,
         "Brand":"Nikon"
       },
       {
@@ -997,7 +1073,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon EOS 80D Body (WIFI)",
         "Price": "1195",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },
       {
@@ -1005,7 +1085,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon EOS 850D Black + obiectiv EF-S 18-55mm f/3.5-5.6 IS STM",
         "Price": "1055",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },
       {
@@ -1013,7 +1097,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon EOS M6 kit EF-M 15-45mm f/3.5-6.3 IS STM negru",
         "Price": "1235",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },
       {
@@ -1021,7 +1109,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Nikon D5600 Kit AF-P 18-55mm VR (black)",
         "Price": "1752",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Nikon"
       },
       {
@@ -1029,7 +1121,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Olympus E-M10 Mark III negru + EZ-M14150 IIR negru",
         "Price": "1329",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Olympus"
       },
       {
@@ -1037,7 +1133,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon Powershot PX Black",
         "Price": "1325",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },
       {
@@ -1045,7 +1145,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Polaroid Now Keith Haring Edition",
         "Price": "946",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Now"
       },
       {
@@ -1079,7 +1183,11 @@
         "productType": "Accesories",
         "Name": "Controller Microsoft Xbox Series X Wireless - Carbon Black + USB-C Cable",
         "Price": "752",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Microsoft"
       },
       {
@@ -1087,7 +1195,11 @@
         "productType": "Accesories",
         "Name": "Rii i7 Smart TV cu TouchPad si AirMouse",
         "Price": "592",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Rii"
       },{
         "id": 98,
@@ -1124,7 +1236,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Sabre"
       },
@@ -1133,7 +1245,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Polaroid Now Mint",
         "Price": "1970",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Now"
       },
       {
@@ -1141,14 +1257,22 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon IXUS 185 Black",
         "Price": "1630",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },{
         "id": 103,
         "productType": "Camera",
         "Name": "Aparat foto Nikon Z6 Kit 24-70mm Negru",
         "Price": "1760",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Nikon"
       },
       {
@@ -1156,7 +1280,11 @@
         "productType": "Accesories",
         "Name": "Accesoriu Tile Mate+ (2020) 4-pack",
         "Price": "700",
-        "Photo": "",
+        "Photo":  [
+            "poze/Controller1",
+            "poze/Controller2",
+            "poze/Controller3"
+        ],
         "Brand":"Tile"
       },
       {
@@ -1177,7 +1305,11 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon EOS 90D Black + obiectiv EF-S 18-55mm f/3.5-5.6 IS STM",
         "Price": "2500",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },
       {
@@ -1189,7 +1321,7 @@
             "poze/PC1",
             "poze/PC2",
             "poze/PC3",
-            "poza/PC4"
+            "poze/PC4"
         ],
         "Brand":"Balaur"
       },
@@ -1198,11 +1330,15 @@
         "productType": "Camera",
         "Name": "Aparat foto Canon PowerShot G3 X Negru",
         "Price": "2800",
-        "Photo": "",
+        "Photo": [
+            "poze/DSLR1",
+            "poze/DSLR2",
+            "poze/DSLR3"
+        ],
         "Brand":"Canon"
       },
       {
-        "id": 108,
+        "id": 109,
         "productType": "Phone",
         "Name": "Smartphone Samsung Galaxy M22, 90Hz Super AMOLED, Octa Core, 128GB, 4GB RAM, Dual SIM, 4G, 5-Camere, Baterie 5000 mAh, Light Blue",
         "Price": "200",
@@ -1215,7 +1351,7 @@
         "Brand":"Samsung"
       },
       {
-        "id": 108,
+        "id": 110,
         "productType": "Phone",
         "Name": "Smartphone Apple iPhone 11, 64GB, Red",
         "Price": "1400",
@@ -1228,7 +1364,7 @@
         "Brand":"Apple"
       },
       {
-        "id": 108,
+        "id": 111,
         "productType": "Phone",
         "Name": "Smartphone Xiaomi 11 Lite NE, 5G Edition, AMOLED, 128GB, 8GB RAM, Dual SIM, 5G, 4-Camere, Green",
         "Price": "1100",
@@ -1241,7 +1377,7 @@
         "Brand":"Xiaomi"
       },
       {
-        "id": 108,
+        "id": 112,
         "productType": "Phone",
         "Name": "Smartphone Motorola Edge 20 Pro, 5G, display OLED 144Hz, 256GB, 12GB RAM, Dual SIM, 4-Camere, senzor 108 MPX, functie Super Zoom 50x, Blue Vegan Leather",
         "Price": "900",
@@ -1254,7 +1390,7 @@
         "Brand":"Motorola"
       },
       {
-        "id": 108,
+        "id": 113,
         "productType": "Phone",
         "Name": "Smartphone Samsung Galaxy S20 FE, 5G, Snapdragon Edition, 128GB, 6GB RAM, Dual SIM, 4-Camere, Cloud Orange",
         "Price": "540",
@@ -1267,7 +1403,7 @@
         "Brand":"Samsung"
       },
       {
-        "id": 108,
+        "id": 114,
         "productType": "Phone",
         "Name": "Smartphone Samsung Galaxy S21 FE, 5G, 120Hz Dynamic AMOLED 2X, 128GB, Snapdragon 888, 6GB RAM, Dual SIM, 4-Camere, White",
         "Price": "600",
