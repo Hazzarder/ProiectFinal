@@ -6,6 +6,61 @@
 }
 @import "src/navbar";
 @import "src/footer";
+#img{
+    width: 100%;
+    height: 480px;
+    background-image: url('poze/pozaSubNav.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+    .scris{
+        
+        position: absolute;
+        text-align: left;
+        margin-left: 20%;
+        margin-right: 50%;
+        top: 30%;
+        
+        
+        h2{
+            color: white;
+            font-size: 48px;
+
+        }
+        h1{
+            color: white;
+            font-size: 72px;
+        }
+        a{
+            button{
+                height: 64px;
+                width: 240px;
+                font-size: 18px;
+                background-color: darkgrey;
+                border: 0px;
+                border-radius: 2%;
+                text-align: center;
+                transition: width 0.5s;
+                
+                &:hover img{
+                    display: block;
+                }
+                img{
+                    display: none;
+                    
+                }
+                &:hover{
+                    width: 280px;
+                    display: flex;
+                    align-items: center; 
+                    justify-content: space-between;
+                    
+                }
+            }
+        }
+    }
+}
 
 .row{
     display: flex;

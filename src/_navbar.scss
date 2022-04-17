@@ -1,6 +1,6 @@
 .container{
     width: 100%;
-    
+    background-color: rgb(25,25,25);
     padding-left: 8%;
     padding-right: 8%;
     box-sizing: border-box;
@@ -21,6 +21,7 @@
     width: 25px;
     cursor: pointer;
     display: none;
+    
 }
 nav{
     flex: 1;
@@ -35,6 +36,7 @@ nav{
                 text-decoration: none;
                 color: black;
                 font-size: 14px;
+                color: white;
                 &:hover{
                     color: #F1D9B2;
                 }
