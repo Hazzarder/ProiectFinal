@@ -131,16 +131,6 @@ nav ul li a:hover {
   position: relative;
 }
 
-.containerForm .title::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  height: 3px;
-  width: 30px;
-  background: blue;
-}
-
 .containerForm form .user-details {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -177,8 +167,7 @@ form .user-details .input-box {
   transition: all 0.3s ease;
 }
 
-.user-details .input-box input:focus,
-.user-details .input-box input:valid {
+.user-details .input-box input:focus {
   border-color: blue;
 }
 
@@ -249,14 +238,22 @@ form .buttonForm input {
   cursor: pointer;
 }
 
-form .buttonForm input:hover {
-  background: linear-gradient(-135deg, #101010, #707070);
-}
-
 .cont {
   display: block;
   position: relative;
   text-align: center;
+}
+
+.input-box input.invalid {
+  border: 1px solid red;
+}
+
+.input-box small {
+  position: absolute;
+  bottom: -24px;
+  left: 0;
+  font-size: 12px;
+  color: red;
 }
 
 @media only screen and (max-width: 700px) {
@@ -288,5 +285,17 @@ body {
 
 .social-links {
   margin-top: 64px;
+}
+
+i {
+  visibility: hidden;
+}
+
+small {
+  display: none;
+}
+
+.error {
+  border: red;
 }
 /*# sourceMappingURL=login.css.map */

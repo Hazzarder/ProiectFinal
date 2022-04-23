@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="src/hamburger.js" defer></script>
+    <script src="src/validation-register.js" defer></script>
+    <script src="https://kit.fontawesome.com/d782b47ac7.js" crossorigin="anonymous"></script>
 </head>
     <div class="container">
         <div class="navbar">
@@ -25,31 +29,51 @@
     
     <div class="containerForm">
         <div class="titleForm">Registration</div>
-        <form action="#">
+        <form action="#" class="form" id="form">
             <div class="user-details">
                 <div class="input-box">
                     <span class="details">Full Name</span>
-                    <input type="text" placeholder="Enter your name" required>
+                    <input type="text" placeholder="Enter your name" id="fullName">
+                    <i class="fas fa-check"></i>
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <small>Error</small>
                 </div>
                 <div class="input-box">
                     <span class="details">Username</span>
-                    <input type="text" placeholder="Enter your username" required>
+                    <input type="text" placeholder="Enter your username" id="username">
+                    
+                    <i class="fas fa-check"></i>
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <small>Error</small>
                 </div>
                 <div class="input-box">
                     <span class="details">Email</span>
-                    <input type="text" placeholder="Enter your email" required>
+                    <input type="email" placeholder="Enter your email" id="email" class="error">
+                    
+                    <i class="fas fa-check"></i>
+                    <i class="fa-solid fa-circle-exclamation "></i>
+                    <small>Error</small>
                 </div>
                 <div class="input-box">
                     <span class="details">Phone Number</span>
-                    <input type="text" placeholder="Enter your number" required>
+                    <input type="text" placeholder="Enter your number" id="phoneNumber">
+                    <i class="fas fa-check"></i>
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <small>Error</small>
                 </div>
                 <div class="input-box">
                     <span class="details">Password</span>
-                    <input type="text" placeholder="Enter you password" required>
+                    <input type="password" placeholder="Enter you password" id="password">
+                    <i class="fas fa-check"></i>
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <small>Error</small>
                 </div>
                 <div class="input-box">
                     <span class="details">Confirm Password</span>
-                    <input type="text" placeholder="Confirm your password" required>
+                    <input type="password" placeholder="Confirm your password" id="password2">
+                    <i class="fas fa-check"></i>
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <small>Error</small>
                 </div>
             </div>
             <div class="gender-details">
@@ -73,13 +97,14 @@
                 </div>
             </div>
             <div class="buttonForm">
-                <input type="submit" value="Register">
+                <input type="submit" value="Register" >
             </div>
         </form>
         <div class="cont">
             <a href="login1.html">Already have an account? Login in here!</a>
         </div>
     </div>
+
     <div class="social-links">
         <img src="poze/fb.png" alt="">
         <img src="poze/ig.png" alt="">
@@ -97,6 +122,6 @@
             <li><a href="">Info</a></li>
         </ul>
     </div>
-    <script src="src/hamburger.js" defer></script>
+    
 </body>
 </html>

@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="shop.css">
+    <script src="src/hamburger.js" defer></script>   
+    <script src="src/products.js" defer></script>
+    <script src="src/filterSearchSorting.js" defer></script>
+        
 </head>
 <body>
     <div class="container">
@@ -21,50 +25,57 @@
             <img src="poze/menu-icon-white-2.png" class="menu-button" onclick="togglememenu()">
         </div>
     </div>
-        <div class="searchBarContainer">
-            <form action="#" class="searchbar">
-                <input type="text" class="" placeholder="Search..." name="q">
-                <button type="submit"><img src="poze/search.png"></button>
-            </form>
-        </div>
-        <div class="content">
-            <aside class="filters"></aside>
-            <main class="products">
-                <div class="product"  >
-                    <img src="poze/laptop1.png" alt="">
-                    <h1>Descriere Produs</h1>
-                    <p>3200</p>
-                    <button class="AddToCart">Add to cart</button>
-                </div>
-                <div class="product"  >
-                    <img src="poze/laptop1.png" alt="">
-                    <h1>Descriere Produs</h1>
-                    <p>3200</p>
-                    <button class="AddToCart">Add to cart</button>
-                </div>    
-                <div class="product"  >
-                    <img src="poze/laptop1.png" alt="">
-                    <h1>Descriere Produs</h1>
-                    <p>3200</p>
-                    <button class="AddToCart">Add to cart</button>
-                </div>
-                
-                <div class="product"  >
-                    <img src="poze/laptop1.png" alt="">
-                    <h1>Descriere Produs</h1>
-                    <p>3200</p>
-                    <button class="AddToCart">Add to cart</button>
-                </div>    
-                <div class="product"  >
-                    <img src="poze/laptop1.png" alt="">
-                    <h1>Descriere Produs</h1>
-                    <p>3200</p>
-                    <button class="AddToCart">Add to cart</button>
-                </div>                    
-            </main>
+    <div class="searchBarContainer">
+        <form action="#" class="searchbar">
+            <input type="text" class="" placeholder="Search..." name="q">
+            <button type="submit"><img src="poze/search.png"></button>
+         </form>
+    </div>
+    <div class="sorting">
+        <span>Sortare in functie de pret:</span>
+        <select name="sort1" id="sorting1">
+            
+            <option value="asc">mic-mare</option>
+            <option value="desc">mare-mic</option>
+        </select>
+        <span>Numar produse in pagina:</span>
+        <select name="sort2" id="sorting3">
+            <option value="">24</option>
+            <option value="asc">48</option>
+            <option value="desc">All</option>
+        </select>
+    </div>
+    <div class="products">
+        <aside>
+            <div class="filter-container" id="filters">
+                <!-- <div class="">
+                    <input type="checkbox">
+                    <span>Laptops</span>
+                </div> -->
 
 
-        </div>
+            </div>
+        </aside>
+        <main>
+            <div class="products-container" id="products">
+                <!-- <div class="product">
+                    <div class="image-container">
+                        <img src="poze/Boxe3.png" alt="">
+                    </div>
+                    <div class="titleh2">
+                        <h2>Laptop ASUS Gaming 17.3' ROG Zephyrus S17, i9-11900H , 32GB </h2>
+                    </div>
+                    <div class="price">
+                        <p>3200$</p>
+                    </div>
+                    <div class="buttons">
+                        <button>Add To Cart</button>
+                        <button>Buy Now</button>
+                    </div>
+                </div> -->
+
+        </main>
+    </div>
        
 
         <div class="social-links">
@@ -85,7 +96,7 @@
             <li><a href="">Info</a></li>
         </ul>
     </div>
-    <script src="src/hamburger.js" defer></script>   
+    
     
 </body>
 </html>

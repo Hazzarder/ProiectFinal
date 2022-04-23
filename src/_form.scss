@@ -16,15 +16,7 @@
 
     }
 }
-.containerForm .title::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 3px;
-    width: 30px;
-    background: blue;
-}
+
 .containerForm form .user-details{
     display: flex;
     flex-wrap: wrap;
@@ -51,9 +43,7 @@ form .user-details .input-box{
     border-bottom-width: 2px ;
     transition: all 0.3s ease;
 }
-.user-details .input-box input:focus,
-
-.user-details .input-box input:valid{
+.user-details .input-box input:focus{
     border-color: blue;
 }
 form .gender-details .gender-title{
@@ -93,6 +83,7 @@ form input[type="radio"]{
 form .buttonForm{
     height: 45px;
     margin: 45px 0;
+    
 }
 form .buttonForm input{
     height: 100%;
@@ -107,15 +98,22 @@ form .buttonForm input{
     background: linear-gradient( 135deg,#101010, #707070);
     cursor: pointer;
 }
-form .buttonForm input:hover{
-    background: linear-gradient(-135deg,#101010, #707070);
 
-}
 .cont{
     display: block;
     position: relative;
     text-align: center;
 }
+.input-box input.invalid{
+    border: 1px solid red;
+}
+.input-box small {
+    position: absolute;
+    bottom: -24px;
+    left: 0;
+    font-size: 12px;
+    color: red;
+  }
 @media only screen and (max-width:700px){
 
     .containerForm{
